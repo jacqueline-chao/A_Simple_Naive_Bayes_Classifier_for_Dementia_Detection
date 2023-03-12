@@ -1,4 +1,0 @@
-# Classifying Magnetic Resonance Imaging (MRI) Scans of Older Adult Brains as Dementia Likely or Dementia Unlikely
-This project is an application of the Naive Bayes machine learning (classification) algorithm. Naive Bayes is founded on Bayes' Theorem (a derivation of conditional probability). This project uses an OASIS (Open Access Series of Imaging Studies) data set of MRI scans of older adult brains.
-
-Note: Please view [here](https://nbviewer.org/github/jacqueline-chao/A_Simple_Naive_Bayes_Classifier_for_Dementia_Detection/blob/38ebb46a23b34b644cbfbd2178e4b6e9a51022a8/Classifying%20Magnetic%20Resonance%20Images%20of%20Older%20Adult%20Brains%20as%20Dementia%20Likely%20or%20Dementia%20Unlikely.ipynb) for the best experience. The link will take you to the Jupyter Notebook Viewer, which is a popular Jupyter Notebook-sharing web application.
